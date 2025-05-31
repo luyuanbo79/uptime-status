@@ -1,15 +1,14 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'lu',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm800575255-f0955810ea811b800003f21a',
+    'm800575268-2963a449726b24aa5761b57b',
+    'm800575195-57af829e7eb33cd9237680e3',
   ],
 
   // 日志天数
@@ -22,15 +21,15 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'https://status.org.cn/'
+      url: 'https://luyb.dpdns.org'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/yb/uptime-status'
+      url: 'https://github.com/luyuanbo79'
     },
     {
       text: 'Blog',
-      url: 'https://abo.xyz/'
+      url: ''
     },
   ],
 };
